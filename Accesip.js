@@ -70,7 +70,7 @@
         "status": "terverifikasi"
       },
       {
-        "ip": "159.223.81.221",
+        "ip": "170.64.179.161",
         "status": "terverifikasi"
       },
       {
